@@ -1,0 +1,63 @@
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.purple {
+    color: purple;
+}
+
+.orange {
+    color: orange;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.xxsmall {
+    font-size: 0.5em;
+}
+
+.xsmall {
+    font-size: 0.7em;
+}
+
+.medium {
+    font-size: 1em;
+}
+
+.large {
+    font-size: 1.5em;
+}
+
+.xlarge {
+    font-size: 2em;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.
